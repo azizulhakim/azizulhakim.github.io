@@ -1,0 +1,113 @@
+{
+  "introduction": {
+    "name": "Muhammad Azizul Hakim",
+    "description": "I'm a Software Engineer with 2 years of industry experience. Experienced in systems software development, 
+	Linux kernel programming and device driver development.",
+    "links": [
+      {
+        "text": "email",
+        "url": "mhaki005@fiu.edu"
+      },
+      {
+        "text": "github",
+        "url": "https://github.com/azizulhakim"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "name": "Education",
+      "experiences": [
+        {
+          "name": "Florida International Universitysci",
+          "url": "https://www.cis.fiu.edu/",
+          "location": "Miami, FL",
+          "subText": "Graduated in December 2016.",
+          "description": "",
+          "involvement": [
+            {
+              "description": "Graduated with a degree in Computer Science."
+            },
+            {
+              "description": "Graduate assistant."
+            },
+            {
+              "description": "System security research."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "experiences": [
+            {
+              "name": "Applied Research Center at Florida International University",
+              "url": "https://arc.fiu.edu/",
+              "location": "Miami, FL",
+              "subText": "Application Developer.  August 2016-Present",
+              "description": "Research and development of automated malware detection and analysis system using live virtual machine introspection.",
+              "involvement": [
+                {
+                  "description": "This is a sub-task for involvement"
+                },
+                {
+                  "description": "There can be multiple of these"
+                }
+              ],
+              "technologies": "C, Go, Python, LibVMI, XEN Hypervisor"
+            },
+            {
+              "name": "Google Summer of Code'2015",
+              "url": "https://developers.google.com/open-source/gsoc/",
+              "subText": "Student Developer.  May 2015-September 2015",
+              "description": "This is just a sample descriptionDeveloped a Linux device driver for ARM CPU based computing device and corresponding 
+			  android application to use android device as a USB display, speaker, keyboard and mouse.",
+              "involvement": [
+                {
+                  "description": ""
+                },
+                {
+                  "description": ""
+                }
+              ],
+              "technologies": "C, Android, Bash Scripting"
+            },
+            {
+              "name": "Florida International University",
+              "url": "https://www.cis.fiu.edu/",
+              "location": "Miami, Fl",
+              "subText": "Graduate Assistant.  August 2013-August 2016",
+              "description": "Conducted research work in collaboration with Applied Research Center’ FIU to detect kernel level malware
+in Windows system and helped with the proposal writing which later got accepted and funded by Department of
+Defense.",
+              "involvement": [
+                {
+                  "description": "This is a sub-task for involvement"
+                },
+                {
+                  "description": "There can be multiple of these"
+                }
+              ],
+              "technologies": "You can have a list of technologies here for whatever you need"
+            }
+          ]
+    },
+    {
+      "name": "Community Service",
+      "experiences": [
+        {
+          "name": "TEST",
+          "url": "TSTURL",
+          "location": "Miami, FL",
+          "subText": "Test.",
+          "involvement": [
+            {
+              "description": "Created <a href='http://test.org/'>http://test.org</a> for the organization"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
