@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -16,3 +17,6 @@ baseurl: ""
 url:
 github_username:  johndoe
 markdown: kramdown
+=======
+theme: jekyll-theme-minimal
+>>>>>>> bef099c00a6cd9f8e4cacefcc912dd84a4b09c28
