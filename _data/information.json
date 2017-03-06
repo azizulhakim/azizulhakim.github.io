@@ -49,8 +49,8 @@
               "name": "Google Summer of Code'2015",
               "url": "https://developers.google.com/open-source/gsoc/",
               "subText": "Student Developer.  May 2015-September 2015",
-              "description": "This is just a sample descriptionDeveloped a Linux device driver for ARM CPU based computing device and corresponding 
-			  android application to use android device as a USB display, speaker, keyboard and mouse.",
+              "description": "Developed a Linux device driver <a href='https://github.com/azizulhakim/beagleusb'>beagleusb</a> for ARM CPU based computing device and corresponding 
+			  <a href='https://github.com/azizulhakim/bard-droid'>android application</a> to use android device as a USB display, speaker, keyboard and mouse.",
               "involvement": [
                 {
                   "description": ""
