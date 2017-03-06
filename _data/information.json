@@ -53,11 +53,14 @@
 			  <a href='https://github.com/azizulhakim/bard-droid'>android application</a> to use android device as a USB display, speaker, keyboard and mouse.",
               "involvement": [
                 {
-                  "description": ""
+                  "description": "The device driver will register a USB connected android device as a standalone sound card, usb monitor and usb keyboard/mouse."
                 },
                 {
-                  "description": ""
-                }
+                  "description": "The android application is responsible to send/receive data to/from the device driver and show it in application container."
+                },
+				{
+				  "description": "<a href='https://www.youtube.com/watch?v=qcoBz-bRnMY`>A youtube video with the driver and application in action.</a>"
+				}
               ],
               "technologies": "C, Android, Bash Scripting"
             },
@@ -71,13 +74,13 @@ in Windows system and helped with the proposal writing which later got accepted 
 Defense.",
               "involvement": [
                 {
-                  "description": "This is a sub-task for involvement"
+                  "description": "Develop a Windows device driver for Windows XP. The driver will instrument kernel API and collect API parameters to generate a whitelist of the legitimate kernel API calls."
                 },
                 {
-                  "description": "There can be multiple of these"
+                  "description": "The whitelist is later used to differentiate and identify any anomaly in the system."
                 }
               ],
-              "technologies": "You can have a list of technologies here for whatever you need"
+              "technologies": "C, Python"
             }
           ]
     },
