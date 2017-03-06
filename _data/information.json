@@ -85,16 +85,21 @@ Defense.",
           ]
     },
     {
-      "name": "Community Service",
+      "name": "Open Source Contribution",
       "experiences": [
         {
-          "name": "TEST",
-          "url": "TSTURL",
-          "location": "Miami, FL",
-          "subText": "Test.",
           "involvement": [
             {
-              "description": "Created <a href='http://test.org/'>http://test.org</a> for the organization"
+              "description": "Participated in Google Summer of Code' 2015 and developed a Linux device driver and an Android application."
+            },
+			{
+              "description": "Contributed code to virtual machine introspection library LibVMI."
+            },
+			{
+              "description": "Participated in open source developer program and developed a secured CMS using Appbase.io."
+            },
+			{
+              "description": "Published an NPM package for data streaming API based session store."
             }
           ]
         }
