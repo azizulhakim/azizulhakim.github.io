@@ -6,7 +6,7 @@
     "links": [
       {
         "text": "mhaki005@fiu.edu",
-        "url": "mhaki005@fiu.edu"
+        "url": "mailto:mhaki005@fiu.edu"
       },
       {
         "text": "github.com/azizulhakim",
@@ -59,7 +59,7 @@
                   "description": "The android application is responsible to send/receive data to/from the device driver and show it in application container."
                 },
 				{
-				  "description": "<a href='https://www.youtube.com/watch?v=qcoBz-bRnMY`>A youtube video with the driver and application in action.</a>"
+				  "description": "A <a href='https://www.youtube.com/watch?v=qcoBz-bRnMY'>youtube video</a> to show the driver and application in action."
 				}
               ],
               "technologies": "C, Android, Bash Scripting"
