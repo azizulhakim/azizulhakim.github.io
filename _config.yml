@@ -6,13 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: John Doe
-email: johndoe@email.com
-description: >
-  This template is available for customization at:
-    <a href="https://github.com/austin94/resume-builder">
-    https://github.com/austin94/resume-builder</a>
+title: Muhammad Azizul Hakim
+email: mhaki005@fiu.edu
+description: ""
 baseurl: ""
 url:
-github_username:  johndoe
+github_username:  azizulhakim
 markdown: kramdown
