@@ -16,5 +16,4 @@ baseurl: ""
 url:
 github_username:  johndoe
 markdown: kramdown
-=======
 theme: jekyll-theme-minimal
