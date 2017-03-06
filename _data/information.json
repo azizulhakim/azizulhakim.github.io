@@ -1,18 +1,16 @@
 {
   "introduction": {
-    "name": "John Doe",
-    "description": "This is a mobile-friendly, jekyll-based resume template
-      that will allow you to create, customize, and host a resume online.
-      For more information view the README at
-      <a href='https://github.com/austin94/resume-builder'>https://github.com/austin94/resume-builder</a>.",
+    "name": "Muhammad Azizul Hakim",
+    "description": "I'm a Software Engineer with 2 years of industry experience. Experienced in systems software development, 
+	Linux kernel programming and device driver development.",
     "links": [
       {
-        "text": "johndoe@email.com",
-        "url": "johndoe@email.com"
+        "text": "mhaki005@fiu.edu",
+        "url": "mhaki005@fiu.edu"
       },
       {
-        "text": "https://github.com/johndoe",
-        "url": "https://github.com/johndoe"
+        "text": "github.com/azizulhakim",
+        "url": "https://github.com/azizulhakim"
       }
     ]
   },
@@ -21,22 +19,18 @@
       "name": "Education",
       "experiences": [
         {
-          "name": "Kansas State University",
-          "url": "http://www.k-state.edu",
-          "location": "Manhattan, KS",
-          "subText": "Senior with a 3.60 cumulative GPA. Graduating in Spring 2016.",
+          "name": "Florida International University",
+          "url": "https://www.cis.fiu.edu/",
+          "location": "Miami, FL",
+          "subText": "Graduated in December 2016.",
           "description": "",
-          "involvement": [
-            {
-              "description": "Graduated with a degree in Computer Science - Software Engineering with a minor in Business."
-            },
-            {
-              "description": "Focus in scalable web and mobile technologies."
-            },
-            {
-              "description": "Super cool stuff"
-            }
-          ]
+        },
+		{
+          "name": "Bangladesh University of Engineering & Technology",
+          "url": "http://www.buet.ac.bd/",
+          "location": "Dhaka, Bangladesh",
+          "subText": "Graduated in December 2011.",
+          "description": "",
         }
       ]
     },
@@ -44,43 +38,37 @@
       "name": "Work Experience",
       "experiences": [
             {
-              "name": "Work 1",
-              "url": "http://google.com",
-              "location": "Manhattan, KS",
-              "subText": "Software Engineer Front-End Development Team.  August 2014-Present",
-              "description": "This is just a sample description",
-              "involvement": [
-                {
-                  "description": "This is a sub-task for involvement"
-                },
-                {
-                  "description": "There can be multiple of these"
-                }
-              ],
-              "technologies": "You can have a list of technologies here for whatever you need"
+              "name": "Applied Research Center at Florida International University",
+              "url": "https://arc.fiu.edu/",
+              "location": "Miami, FL",
+              "subText": "Application Developer.  August 2016-Present",
+              "description": "Research and development of automated malware detection and analysis system using live virtual machine introspection.",
+              "technologies": "C, Go, Python, LibVMI, XEN Hypervisor"
             },
             {
-              "name": "Work 2",
-              "url": "http://google.com",
-              "location": "Manhattan, KS",
-              "subText": "Software Engineer Front-End Development Team.  August 2014-Present",
-              "description": "This is just a sample description",
+              "name": "Google Summer of Code'2015",
+              "url": "https://developers.google.com/open-source/gsoc/",
+              "subText": "Student Developer.  May 2015-September 2015",
+              "description": "This is just a sample descriptionDeveloped a Linux device driver for ARM CPU based computing device and corresponding 
+			  android application to use android device as a USB display, speaker, keyboard and mouse.",
               "involvement": [
                 {
-                  "description": "This is a sub-task for involvement"
+                  "description": ""
                 },
                 {
-                  "description": "There can be multiple of these"
+                  "description": ""
                 }
               ],
-              "technologies": "You can have a list of technologies here for whatever you need"
+              "technologies": "C, Android, Bash Scripting"
             },
             {
-              "name": "Work 3",
-              "url": "http://google.com",
-              "location": "Manhattan, KS",
-              "subText": "Software Engineer Front-End Development Team.  August 2014-Present",
-              "description": "This is just a sample description",
+              "name": "Florida International University",
+              "url": "https://www.cis.fiu.edu/",
+              "location": "Miami, Fl",
+              "subText": "Graduate Assistant.  August 2013-August 2016",
+              "description": "Conducted research work in collaboration with Applied Research Center’ FIU to detect kernel level malware
+in Windows system and helped with the proposal writing which later got accepted and funded by Department of
+Defense.",
               "involvement": [
                 {
                   "description": "This is a sub-task for involvement"
@@ -97,19 +85,13 @@
       "name": "Community Service",
       "experiences": [
         {
-          "name": "DBSAOP",
-          "url": "http://dbsaop.org/",
-          "location": "Overland Park, KS",
-          "subText": "Depression and Bipolar Support Alliance of Overland Park. Fall 2015.",
+          "name": "TEST",
+          "url": "TSTURL",
+          "location": "Miami, FL",
+          "subText": "Test.",
           "involvement": [
             {
-              "description": "Created <a href='http://dbsaop.org/'>http://dbsaop.org</a> for the organization"
-            },
-            {
-              "description": "Created a basic wordpress theme and provided training for staff to actively update their web experience"
-            },
-            {
-              "description": "Helped with general technology questions including mailing lists"
+              "description": "Created <a href='http://test.org/'>http://test.org</a> for the organization"
             }
           ]
         }
