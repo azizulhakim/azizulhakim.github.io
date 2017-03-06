@@ -81,6 +81,22 @@ Defense.",
                 }
               ],
               "technologies": "C, Python"
+            },
+            {
+              "name": "Vizrt",
+              "url": "http://www.vizrt.com/contact/34417/Vizrt_Bangladesh",
+              "location": "Dhaka, Bangladesh",
+              "subText": "Software Engineer.  May 2012-July 2013",
+              "description": "Worked on continuous improvement and feature implementation of Vizrt’s Media Management solution.",
+              "involvement": [
+                {
+                  "description": "Viz Media Logger: Worked as a team member for developing the media asset management solution."
+                },
+                {
+                  "description": "VDFEditor: Worked as a team member for continuously enhancing the Vizrt Data Format editor."
+                }
+              ],
+              "technologies": "C, Python"
             }
           ]
     },
